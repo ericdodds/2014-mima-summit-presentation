@@ -32,4 +32,12 @@ These quotes come from a Quartz article on how many requirements listed in job p
 
 This quote is from a BLS Occupational Outlook for Web Development. You can read the full report [on the BLS website](http://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-6).
 
-###
+### Slide 25
+
+The original version of this diagram of programming languages can be found on [http://rigaux.org/](http://rigaux.org/language-study/diagram.pdf).
+
+### Slide 31
+
+> I'm not sure I would say my grasp of languages/tools are what make me valuable, but more that I have a set of patterns and mental models that 1) allow me to learn new things quickly and 2) allow me to synthesize different topics into one coherent whole.
+
+This quote is from Iron Yard Instructor Jake Smith. You can [follow him on Twitter](https://twitter.com/jacobthemyth).
