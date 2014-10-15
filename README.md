@@ -1,4 +1,4 @@
-mima-summit-2014-presentation
+2014 MIMA Summit Presentation
 =============================
 
-Slides, notes and references from my talk at the 2014 MIMA Summit. 
+These are slides, notes and references from my talk at the 2014 MIMA Summit. 
