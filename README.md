@@ -2,3 +2,34 @@
 =============================
 
 These are slides, notes and references from my talk at the 2014 MIMA Summit. 
+
+# References
+
+### Slide 18
+
+> "Every software engineer has experienced a job interview in which he or she was forced to act more like a dictionary than a human being. There's a prevalent misconception that, in order to properly develop software, one must know all the minute details of any programming language listed in the job requirements. It's a remnant of the days when developers received their knowledge from physical manuals."
+
+This quote is by Blake Callens in an article published on Exit Event. You can [read the full article here](http://exitevent.com/article/software-talent-isnt-that-hard-to-find-14825).
+
+### Slide 19
+
+This is a screenshot from Wikipedia's [Alphabetical List of Programming Languages](http://en.wikipedia.org/wiki/List_of_programming_languages).
+
+### Slide 20
+
+> ...if you look at just about any Facebook job posting for an engineer, you’ll see a B.A. or M.A. in computer science listed as a “requirement.”
+
+> It isn’t, according to Serkan Piantino, who leads Facebook’s New York office.
+“Part of our recruiting strategy is to be pretty agnostic to the things that don’t matter,” Piantino told Quartz in an interview earlier this summer. 
+
+> “Things like somebody’s prior background, whether they went to a top [computer science] program or never graduated high school, if they’re a good fit for Facebook we just try to focus on that.”
+
+These quotes come from a Quartz article on how many requirements listed in job postings are fictitious or should be ignored. You can read the full article [on Quartz's website](http://qz.com/255565/job-requirements-are-mostly-fiction-and-you-should-ignore-them/). 
+
+### Slide 22
+
+> "Job opportunities for web developers are expected to be good. Those with knowledge of multiple programming languages and digital multimedia tools...will have the best opportunities.”
+
+This quote is from a BLS Occupational Outlook for Web Development. You can read the full report [on the BLS website](http://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-6).
+
+###
