@@ -74,5 +74,17 @@ This quote is from Iron Yard Instructor Jesse Wolgamott. You can learn more abou
 
 This quote is from Iron Yard Instructor Jesse Wolgamott. You can learn more about him [on The Iron Yard's website](http://theironyard.com/about/team/#jesse) and [follow him on Twitter](https://twitter.com/jwo). 
 
-### Slide
+### Slide 44
+
+These two websites aggregate and help consumers sort through and choose code education programs. The one on the top is [Course Report](http://coursereport.com/) and the one on the bottom [Balloon.com](http://balloon.com/).
+
+### Slide 45
+
+You can read more about Georgia Tech's $6,600 Masters Degree from their College of Computing [on their website](http://www.cc.gatech.edu/).
+
+### Slide 46
+
+You can read more about Thinkful's courses and mentorship programs [on their website](http://thinkful.com/). 
+
+
 
