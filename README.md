@@ -98,5 +98,13 @@ You can read more about Todd Heidenreich and his mini-weather station project on
 
 You can read more about Ryan Poplin and his journey from JavaScript to Objective-C to an accelerator program and iOS apps for pediatric Autism therapy [on the ExcepApps website](http://www.excepapps.com/why-were-doing-this/). 
 
-### Slide 
+### Slide 58
+
+You can see my single, little commit to Andrew Norcross' footnotes plug-in for WordPress, called Citation Pro, [on the project repo on GitHub](https://github.com/norcross/citation-pro/).
+
+### Slide 68
+
+> If you understand code, you strengthen your ability to act as a valuable liaison, no matter what your role. It makes you a valuable asset if you’re working within a company, and a stronger leader if you’re building your own. You will also remain empowered when hiring and managing developers or outsourcing efforts. Because you are familiar with the same tools they are, you will know what is feasible, what is efficient, and the true level of effort for any task.
+
+This quote is from a blog post called "4 Reasons to Code Your Website, Even Though There's Squarespace." You can read the full article [on General Assembly's blog](http://blog.generalassemb.ly/4-reasons-to-learn-code-even-though-theres-squarespace/). 
 
