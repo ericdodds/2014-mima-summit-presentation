@@ -59,3 +59,20 @@ This definition of Open-source software is from Wikipedia's [article on the same
 This chart is from a 2008 paper written about open source software from Amit Deshpande and Dirk Riehle of SAP Labs. You can read the full paper [here](http://dirkriehle.com/publications/2008-2/the-total-growth-of-open-source/).
 
 ### Slide 38
+
+This graph is from a report from Black Duck Software on the future of open source. You can see the full presentation [on Slideshare](http://www.slideshare.net/blackducksoftware/the-2013-future-of-open-source-survey-results).
+
+### Slide 40
+
+> I would say that with closed source tools, it's really hard learn from them. I can only use them. Whereas, with open source (Rails, Ember, Angular, whatever), I am able to look at their source code and learn from people much better than me.
+
+This quote is from Iron Yard Instructor Jesse Wolgamott. You can learn more about him [on The Iron Yard's website](http://theironyard.com/about/team/#jesse) and [follow him on Twitter](https://twitter.com/jwo). 
+
+### Slide 41
+
+> Closed source communities are divided between those that create the tools, and those that use the tools. In open-source, they're basically the same community. So I can get to know the person who wrote this code.
+
+This quote is from Iron Yard Instructor Jesse Wolgamott. You can learn more about him [on The Iron Yard's website](http://theironyard.com/about/team/#jesse) and [follow him on Twitter](https://twitter.com/jwo). 
+
+### Slide
+
