@@ -41,3 +41,21 @@ The original version of this diagram of programming languages can be found on [h
 > I'm not sure I would say my grasp of languages/tools are what make me valuable, but more that I have a set of patterns and mental models that 1) allow me to learn new things quickly and 2) allow me to synthesize different topics into one coherent whole.
 
 This quote is from Iron Yard Instructor Jake Smith. You can [follow him on Twitter](https://twitter.com/jacobthemyth).
+
+### Slide 32
+
+> ￼Learn tools, and use tools, but don't accept tools. Always distrust them; always be alert for alternative ways of thinking. This is what I mean by avoiding the conviction that you "know what you're doing".
+
+This quote is from Bret Victor in commentary about his presentation called "The Future of Programming." You can watch the presentation and find the original quote [on his website](http://worrydream.com/dbx/).
+
+### Slide 35
+
+> Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change and distribute the software to anyone and for any purpose.
+
+This definition of Open-source software is from Wikipedia's [article on the same subject](https://en.wikipedia.org/wiki/Open-source_software). 
+
+### Slide 36
+
+This chart is from a 2008 paper written about open source software from Amit Deshpande and Dirk Riehle of SAP Labs. You can read the full paper [here](http://dirkriehle.com/publications/2008-2/the-total-growth-of-open-source/).
+
+### Slide 38
