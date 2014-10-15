@@ -5,9 +5,7 @@ These are slides, notes and references from my talk at the 2014 MIMA Summit.
 
 You can download a PDF of the slides [here](https://github.com/ericdodds/2014-mima-summit-presentation/blob/master/2014-mima-summit-slides-eric-dodds-tomorrows-developers.pdf). You can download my notes and outline [here](https://github.com/ericdodds/2014-mima-summit-presentation/blob/master/mima_summit_outline.pdf). (Hint: click "View Raw" to download the file.)
 
-Also, just for fun, here's a screen recording of me actually creating this repo. The total time was ~50 minutes, but the video is sped up to show the entire process in ~2:45. 
-
-<iframe src="//player.vimeo.com/video/109055485" width="750" height="469" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/109055485">2014 MIMA Presentation - Open Sourcing References on GitHub</a> from <a href="http://vimeo.com/ericdodds">ericdodds</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Also, just for fun, [here's a screen recording](https://vimeo.com/109055485) of me actually creating this repo. The total time was ~50 minutes, but the video is sped up to show the entire process in ~2:45. 
 
 # References
 
