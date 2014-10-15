@@ -3,6 +3,8 @@
 
 These are slides, notes and references from my talk at the 2014 MIMA Summit. 
 
+You can download a PDF of the slides [here](https://github.com/ericdodds/2014-mima-summit-presentation/blob/master/2014-mima-summit-slides-eric-dodds-tomorrows-developers.pdf). You can download my notes and outline [here](https://github.com/ericdodds/2014-mima-summit-presentation/blob/master/mima_summit_outline.pdf). (Hint: click "View Raw" to download the file.)
+
 # References
 
 ### Slide 18
