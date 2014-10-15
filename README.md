@@ -108,3 +108,13 @@ You can see my single, little commit to Andrew Norcross' footnotes plug-in for W
 
 This quote is from a blog post called "4 Reasons to Code Your Website, Even Though There's Squarespace." You can read the full article [on General Assembly's blog](http://blog.generalassemb.ly/4-reasons-to-learn-code-even-though-theres-squarespace/). 
 
+### Slide 69
+
+You can see my open source guide to freelancing, called The Little Freelancer, [on the project repo on GitHub](https://github.com/ericdodds/the-little-freelancer).
+
+### Slide 73
+
+> First, solve the problem. Then, write the code.
+ 
+This quote is from John Johnson and can be found all over the internet. 
+
