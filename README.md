@@ -86,5 +86,17 @@ You can read more about Georgia Tech's $6,600 Masters Degree from their College 
 
 You can read more about Thinkful's courses and mentorship programs [on their website](http://thinkful.com/). 
 
+### Slide 47
 
+You can read about Creighton University's and Columbia University's integration of computer science into journalism curriculum in an article [on the American Journalism Review's website](http://ajr.org/2014/09/24/should-journalists-learn-code/).
+
+### Slide 55 
+
+You can read more about Todd Heidenreich and his mini-weather station project on his [NEXT Weather API website](http://heidenreich.github.io/nwAPI/). 
+
+### Slide 56
+
+You can read more about Ryan Poplin and his journey from JavaScript to Objective-C to an accelerator program and iOS apps for pediatric Autism therapy [on the ExcepApps website](http://www.excepapps.com/why-were-doing-this/). 
+
+### Slide 
 
